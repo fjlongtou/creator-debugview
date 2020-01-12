@@ -9,6 +9,8 @@ RichDebug.showDebug() 打开调试面板
 
 RichDebug.hideDebug() 关闭调试面板
 
-![Image text](https://github.com/fjlongtou/creator-debugview/blob/master/pic1.png)
+插件截图如下：
 
 ![Image text](https://github.com/fjlongtou/creator-debugview/blob/master/pic2.png)
+
+![Image text](https://github.com/fjlongtou/creator-debugview/blob/master/pic1.png)
