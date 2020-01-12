@@ -1,2 +1,2 @@
-RichDebug.showDebug() 打开调试面板
-RichDebug.hideDebug() 关闭调试面板
+锘縍ichDebug.showDebug() 鎵撳紑璋冭瘯闈㈡澘
+RichDebug.hideDebug() 鍏抽棴璋冭瘯闈㈡澘
