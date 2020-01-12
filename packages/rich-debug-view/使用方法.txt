@@ -1,0 +1,2 @@
+RichDebug.showDebug() 打开调试面板
+RichDebug.hideDebug() 关闭调试面板

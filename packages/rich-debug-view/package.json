@@ -1,0 +1,22 @@
+{
+    "name":"rich-debug-view",
+    "version":"1.0.0",
+    "description":"调试拓展插件包",
+    "author":"汪胜",
+    "main":"main.js",
+    "main-menu":{
+        "调试插件/导入资源":{
+            "message":"rich-debug-view:sync-sdk"
+        }
+    },
+    "runtime-resource": {
+        "path": "src",
+        "name": "sdk"
+    },
+    "reload": {
+        "ignore": [
+          "src/**/*"
+        ]
+    }
+    
+}
