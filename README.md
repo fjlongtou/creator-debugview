@@ -5,6 +5,8 @@ cocoscreator 版本：2.2.1
 
 使用方法：
 
+拷贝rich-debug-view到package文件夹
+
 RichDebug.showDebug() 打开调试面板
 
 RichDebug.hideDebug() 关闭调试面板
