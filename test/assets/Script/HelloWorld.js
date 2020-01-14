@@ -21,7 +21,12 @@ cc.Class({
         //
         // });
     },
-
+    openDebug : function(){
+    	RichDebug.showDebug()
+    },
+    closeDebug : function(){
+    	RichDebug.hideDebug()
+    },
     // called every frame
     update: function (dt) {
 
